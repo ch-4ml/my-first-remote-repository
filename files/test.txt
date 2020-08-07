@@ -8,6 +8,7 @@ KONG129693939393939
 hello
 lch
 <<<<<<< HEAD
+<<<<<<< HEAD
 JungHyeok
 asdfadsfsafsafsfasdfasdf
 gg
@@ -19,3 +20,12 @@ asdfadsfsafsafsfasdfasdf
 >>>>>>> ef3807ce53551e0fff5575918a77faa6ad65000b
 449
 sdgsgaadsgsagdag
+=======
+JungHyeok
+asdfadsfsafsafsfasdfasdf\
+아아
+JungHyeokChoi
+asdfadsfsafsafsfasdfasdf
+first
+>>>>>>> 57c1c50819a0cc29836d63eaa55d54c7333c12f9
+dddtttt
