@@ -3,12 +3,19 @@ test
 hasnoilddf
 pkyh2
 ch-4ml
-나임 아무튼 나임
+KONG129693939393939
 0807
 hello
 lch
+<<<<<<< HEAD
 JungHyeok
 asdfadsfsafsafsfasdfasdf
 gg
 dddd
 1211
+=======
+JungHyeokChoi
+asdfadsfsafsafsfasdfasdf
+>>>>>>> ef3807ce53551e0fff5575918a77faa6ad65000b
+449
+sdgsgaadsgsagdag
